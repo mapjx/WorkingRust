@@ -1,4 +1,4 @@
 /*Hola mundo en Rust*/
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world en Rust!");
 }
