@@ -1,4 +1,4 @@
-/*Hola mundo en Rust*/
+/*Hola mundo en Rust...*/
 fn main() {
-    println!("Hello, world en Rust!");
+    println!("Hello, world en Rust...!");
 }
